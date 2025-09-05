@@ -1,0 +1,13 @@
+.idea
+
+.venv
+
+__pycache__/
+
+test.db
+
+.pytest_cache
+.coverage
+
+migrations/versions/*
+!migrations/versions/__init__.py
